@@ -1,6 +1,4 @@
-Absolutely. I’ll keep the content **exactly as you provided** and only format it as a clean `README.md`.
 
-````markdown
 # Multi-Format Engineering Document Intelligence API
 
 An AI-powered engineering document intelligence system that processes RFQ documents, BOQs, CAD files, and other engineering documents using RAG, vector search, LLM-based extraction, and cross-document conflict detection.
